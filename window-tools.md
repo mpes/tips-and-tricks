@@ -3,7 +3,7 @@ Short list of tools I use on Windows
 [Seer](http://1218.io/seer/screenshot.html) is a Windows quick look tool.
 * Acts just like the one in macOS, but Seer is more powerful, customizable and faster.
 * In explorer just press <kbd>space</kbd> and preview archives, pictures, Excel tables, Word documents, text files, etc.
-
+* New version are paid $
 [exe](https://sourceforge.net/projects/ccseer/files/latest/download)
 # Cmder
 [Cmder](http://cmder.net/) is a pre-configured software package providing you the best terminal emulator.
@@ -37,5 +37,15 @@ Short list of tools I use on Windows
 * Process tree
 
 [exe](https://download.sysinternals.com/files/ProcessExplorer.zip)
+
+# SublimeText 3
+[Sublime Text](https://download.sysinternals.com/files/ProcessExplorer.zip) is one of the top-notch text editors
+* Very versatile
+* Lightweight
+* Supports multiple prompts at the same time
+* Countless add-ons (one for all [Package Control](https://packagecontrol.io/) )
+[More to see here]()
+
+[exe portable](https://download.sublimetext.com/Sublime%20Text%20Build%203170%20x64.zip)
 
 # Screen2GIF
