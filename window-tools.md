@@ -3,6 +3,7 @@ Short list of tools I use on Windows
 [Seer](http://1218.io/seer/screenshot.html) is a Windows quick look tool.
 * Acts just like the one in macOS, but Seer is more powerful, customizable and faster.
 * In explorer just press <kbd>space</kbd> and preview archives, pictures, Excel tables, Word documents, text files, etc.
+
 [exe](https://sourceforge.net/projects/ccseer/files/latest/download)
 # Cmder
 [Cmder](http://cmder.net/) is a pre-configured software package providing you the best terminal emulator.
@@ -27,4 +28,14 @@ Short list of tools I use on Windows
 
 [exe-386](https://github.com/junegunn/fzf-bin/releases/download/0.17.3/fzf-0.17.3-windows_386.zip)
 [exe-amd]( https://github.com/junegunn/fzf-bin/releases/download/0.17.3/fzf-0.17.3-windows_amd64.zip)
+# Process Explorer
+[Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) shows you information about which handles and DLLs processes have opened or loaded.
+* Ever wondered which program has a particular file or directory open? Now you can find out. 
+* Memory, CPU consumption
+* CPU Affinity
+* Parameters used at program startup
+* Process tree
+
+[exe](https://download.sysinternals.com/files/ProcessExplorer.zip)
+
 # Screen2GIF
