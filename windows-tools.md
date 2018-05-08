@@ -68,7 +68,16 @@ make short animations of your screen
 [exe](http://www.screentogif.com/)
 
 # Chrome extensions
-* [Shortcuts (Custom Keyboard Shortcuts](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck?utm_source=chrome-app-launcher-info-dialog)
-* [Swype Gesture](https://chrome.google.com/webstore/detail/swipe-gesture/mgegfjnccpnkdppohmfgnjalkediapkc?utm_source=chrome-app-launcher-info-dialog)
-* [Switch Recent Tabs](https://chrome.google.com/webstore/detail/switch-recent-tabs/odhjcgnlbagjllfbilicalpigimhdcll?utm_source=chrome-app-launcher-info-dialog)
-** With <kbd>Alt</kbd> + <kbd>Q</kbd> - similar to
+## [Shortcuts (Custom Keyboard Shortcuts](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck?utm_source=chrome-app-launcher-info-dialog)
+customize shortcuts you are used to. I was used to Mac so the following are good fit for me:
+<kbd>ctrl</kbd>+<kbd>alt</kbd>+</kbd>leftPrevious<kbd> tab
+<kbd>ctrl</kbd>+<kbd>alt</kbd>+</kbd>rightNext<kbd> tab
+<kbd>backspaceGo</kbd> back
+<kbd>alt</kbd>+<kbd>left</kbd>stop
+```json
+[{"action":"prevtab","blacklist":false,"exported":true,"key":"ctrl+alt+left","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]},{"action":"nexttab","blacklist":false,"exported":true,"key":"ctrl+alt+right","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]},{"action":"back","blacklist":false,"exported":true,"key":"backspace","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]},{"action":"disable","activeInInputs":true,"blacklist":false,"customName":"stop back","exported":true,"key":"alt+left","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]}]
+```
+## [Swype Gesture](https://chrome.google.com/webstore/detail/swipe-gesture/mgegfjnccpnkdppohmfgnjalkediapkc?utm_source=chrome-app-launcher-info-dialog)
+## [Switch Recent Tabs](https://chrome.google.com/webstore/detail/switch-recent-tabs/odhjcgnlbagjllfbilicalpigimhdcll?utm_source=chrome-app-launcher-info-dialog)
+toggles two recent active tabs
+* With <kbd>Alt</kbd> + <kbd>Q</kbd> - similar to <kbd>Option</kbd><kbd>`</kbd> on Mac
