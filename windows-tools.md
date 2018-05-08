@@ -44,7 +44,7 @@ basic spreadsheet file editor that supports the CSV file format. You can:
 
 [exe](http://home.hccnet.nl/s.j.francke/csved/CSVed.zip) 
 [installer](http://home.hccnet.nl/s.j.francke/csved/csvedsetup.exe)
-# DiffMerge
+# [DiffMerge](https://sourcegear.com/diffmerge/)
 graphically shows the changes between two files. Includes intra-line highlighting and full support for editing.
 * shows diff
 * helps with merge
@@ -62,4 +62,7 @@ is one of the top-notch text editors
 
 [exe portable](https://download.sublimetext.com/Sublime%20Text%20Build%203170%20x64.zip)
 
-# Screen2GIF
+# [Screen2GIF](http://www.screentogif.com/)
+make short animations of your screen
+- requires .NET framework
+[exe](http://www.screentogif.com/)
