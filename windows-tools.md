@@ -78,6 +78,11 @@ customize shortcuts you are used to. I was used to Mac so the following are good
 [{"action":"prevtab","blacklist":false,"exported":true,"key":"ctrl+alt+left","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]},{"action":"nexttab","blacklist":false,"exported":true,"key":"ctrl+alt+right","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]},{"action":"back","blacklist":false,"exported":true,"key":"backspace","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]},{"action":"disable","activeInInputs":true,"blacklist":false,"customName":"stop back","exported":true,"key":"alt+left","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]}]
 ```
 ## [Swype Gesture](https://chrome.google.com/webstore/detail/swipe-gesture/mgegfjnccpnkdppohmfgnjalkediapkc?utm_source=chrome-app-launcher-info-dialog)
+adds two finger gesture customization
+I use it for common Mac gesture:
+* 2 fingers left swipe - go backwards
+* 2 fingers right swipe - go forward
+
 ## [Switch Recent Tabs](https://chrome.google.com/webstore/detail/switch-recent-tabs/odhjcgnlbagjllfbilicalpigimhdcll?utm_source=chrome-app-launcher-info-dialog)
 toggles two recent active tabs
 * With <kbd>Alt</kbd> + <kbd>Q</kbd> - similar to <kbd>Option</kbd><kbd>`</kbd> on Mac
