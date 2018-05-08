@@ -71,3 +71,4 @@ make short animations of your screen
 * [Shortcuts (Custom Keyboard Shortcuts](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck?utm_source=chrome-app-launcher-info-dialog)
 * [Swype Gesture](https://chrome.google.com/webstore/detail/swipe-gesture/mgegfjnccpnkdppohmfgnjalkediapkc?utm_source=chrome-app-launcher-info-dialog)
 * [Switch Recent Tabs](https://chrome.google.com/webstore/detail/switch-recent-tabs/odhjcgnlbagjllfbilicalpigimhdcll?utm_source=chrome-app-launcher-info-dialog)
+** With <kbd>Alt</kbd> + <kbd>Q</kbd> - similar to
