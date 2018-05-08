@@ -35,6 +35,20 @@ shows you information about which handles and DLLs processes have opened or load
 * CPU Affinity
 * Parameters used at program startup
 * Process tree
+# [CSVed](http://csved.sjfrancke.nl/index.html)
+basic spreadsheet file editor that supports the CSV file format. You can:
+* add/delete columns, rearrange column order, change separator, 
+* filter items
+* remove duplicates
+* split/join columns etc
+
+[exe](http://home.hccnet.nl/s.j.francke/csved/CSVed.zip) 
+[installer](http://home.hccnet.nl/s.j.francke/csved/csvedsetup.exe)
+# DiffMerge
+graphically shows the changes between two files. Includes intra-line highlighting and full support for editing.
+* shows diff
+* helps with merge
+* diff directories
 
 [exe](https://download.sysinternals.com/files/ProcessExplorer.zip)
 
