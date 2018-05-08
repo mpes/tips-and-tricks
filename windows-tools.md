@@ -70,8 +70,8 @@ make short animations of your screen
 # Chrome extensions
 ## [Shortcuts (Custom Keyboard Shortcuts](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck?utm_source=chrome-app-launcher-info-dialog)
 customize shortcuts you are used to. I was used to Mac so the following are good fit for me:
-<kbd>ctrl</kbd>+<kbd>alt</kbd>+</kbd>left</kbd>Previous tab
-<kbd>ctrl</kbd>+<kbd>alt</kbd>+</kbd>right<kbd>Next tab
+<kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>left</kbd>Previous tab
+<kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>right</kbd>Next tab
 <kbd>backspace</kbd>Go back
 <kbd>alt</kbd>+<kbd>left</kbd>stop back
 ```json
