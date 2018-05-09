@@ -70,10 +70,10 @@ make short animations of your screen
 # Chrome extensions
 ## [Shortcuts (Custom Keyboard Shortcuts](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck?utm_source=chrome-app-launcher-info-dialog)
 customize shortcuts you are used to. I was used to Mac so the following are good fit for me:
-* <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>left</kbd> Previous tab
-* <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>right</kbd> Next tab
-* <kbd>backspace</kbd> Go back
-* <kbd>alt</kbd>+<kbd>left</kbd> Stop back
+* <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>left</kbd> Previous tab - instead of clumsy <kbd>Ctr</kbd>+<kbd>Shift</kbd>+<kbd>Tab</kbd>
+* <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>right</kbd> Next tab - instead of clumsy <kbd>Ctr</kbd>+<kbd>Tab</kbd>
+* <kbd>backspace</kbd> Go back - like in Internet Explorer
+* <kbd>alt</kbd>+<kbd>left</kbd> Stop back (???)
 ```json
 [{"action":"prevtab","blacklist":false,"exported":true,"key":"ctrl+alt+left","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]},{"action":"nexttab","blacklist":false,"exported":true,"key":"ctrl+alt+right","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]},{"action":"back","blacklist":false,"exported":true,"key":"backspace","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]},{"action":"disable","activeInInputs":true,"blacklist":false,"customName":"stop back","exported":true,"key":"alt+left","open":false,"sites":"*mail.google.com*","sitesArray":["*mail.google.com*"]}]
 ```
