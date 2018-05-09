@@ -67,6 +67,14 @@ make short animations of your screen
 - requires .NET framework
 [exe](http://www.screentogif.com/)
 
+# [!Clipboard] (http://1clipboard.io/)
+share clipboard even among multiple computers in different locations or 
+#Windows# #MacOS#
+* uses Google Drive (keep security in mind)
+[Win exe installer](http://1clipboard.io/download/windows/1ClipboardSetup.exe)
+[Mac OS installer](http://1clipboard.io/download/darwin/1Clipboard.dmg)
+# System commands
+
 # Chrome extensions
 ## [Shortcuts (Custom Keyboard Shortcuts](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck?utm_source=chrome-app-launcher-info-dialog)
 customize shortcuts you are used to. I was used to Mac so the following are good fit for me:
