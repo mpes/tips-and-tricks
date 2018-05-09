@@ -67,14 +67,24 @@ make short animations of your screen
 - requires .NET framework
 [exe](http://www.screentogif.com/)
 
-# [1Clipboard] (http://1clipboard.io/)
+# [1Clipboard](http://1clipboard.io/)
 share clipboard even among multiple computers in different locations or 
 #Windows# #MacOS#
 * uses Google Drive (keep security in mind)
 [Win exe installer](http://1clipboard.io/download/windows/1ClipboardSetup.exe)
 [Mac OS installer](http://1clipboard.io/download/darwin/1Clipboard.dmg)
+# [Winclip](http://dmst.aueb.gr/dds/sw/outwit/winclip.html)
+works with clipboard from commandline
+similar way as Mac OS works with `pbcopy` and `pbpaste`
+* `echo "hello" | winclip -c` 
+* `winclip -p`
+I do recommend to use aliases like `pbcopy`/`pbpaste` or `clipc`/`clipp` or detect if the stdin is connectected and use one `clip` for both based on that information
+[zip](http://dmst.aueb.gr/dds/sw/outwit/outwit-bin-1.25.zip)
 # System commands
-
+## clip
+standard Windows command
+* `DIR | CLIP` Places a copy of the current directory listing into the Windows clipboard. 
+* `CLIP < README.TXT` Places a copy of the text from readme.txt on to the Windows clipboard.
 # Chrome extensions
 ## [Shortcuts (Custom Keyboard Shortcuts](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck?utm_source=chrome-app-launcher-info-dialog)
 customize shortcuts you are used to. I was used to Mac so the following are good fit for me:
