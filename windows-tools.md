@@ -80,6 +80,13 @@ similar way as Mac OS works with `pbcopy` and `pbpaste`
 * `winclip -p`
 I do recommend to use aliases like `pbcopy`/`pbpaste` or `clipc`/`clipp` or detect if the stdin is connectected and use one `clip` for both based on that information
 [zip](http://dmst.aueb.gr/dds/sw/outwit/outwit-bin-1.25.zip)
+# [Youtube DL](http://rg3.github.io/youtube-dl/download.html)
+Downloads youtube video as `.mp4`
+* `youtube-dl.exe https://www.youtube.com/watch?v=XYZO1234ABCDE`
+# [Snipaste](https://www.snipaste.com/)
+Powerful screenshot tool
+[exe](https://dl.snipaste.com/win-x64)
+
 # System commands
 ## clip
 standard Windows command
