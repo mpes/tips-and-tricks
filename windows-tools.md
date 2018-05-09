@@ -84,5 +84,7 @@ I use it for common Mac gesture:
 * 2 fingers right swipe - go forward
 
 ## [Switch Recent Tabs](https://chrome.google.com/webstore/detail/switch-recent-tabs/odhjcgnlbagjllfbilicalpigimhdcll?utm_source=chrome-app-launcher-info-dialog)
-toggles two recent active tabs
-* With <kbd>Alt</kbd> + <kbd>Q</kbd> - similar to <kbd>Option</kbd><kbd>`</kbd> on Mac
+
+* toggles two recent active tabs <kbd>Alt</kbd> + <kbd>Q</kbd> - similar to <kbd>Option</kbd><kbd>`</kbd> on Mac
+* toggles two recent active windows <kbd>Alt</kbd> + <kbd>`</kbd> - same as <kbd>Option</kbd><kbd>`</kbd> on Mac
+* reopens recent closed tab/window <kbd>Ctr</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>
