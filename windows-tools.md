@@ -96,3 +96,11 @@ I use it for common Mac gesture:
 * toggles two recent active tabs <kbd>Alt</kbd> + <kbd>Q</kbd> - similar to <kbd>Option</kbd><kbd>\`</kbd> on Mac
 * toggles two recent active windows (or apps as browser - Slack for example) <kbd>Alt</kbd> + <kbd>\`</kbd> - same as <kbd>Option</kbd><kbd>`</kbd> on Mac
 * reopens recent closed tab/window <kbd>Ctr</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>
+
+# Chrome bookmarklets
+basically Javascript code run as bookmark
+## prefill Zendesk request
+like request to install software
+```javascript
+javascript:(function(){ document.getElementById("request_custom_fields_22718993").value="czech_republic"; document.getElementById("request_custom_fields_29168837").value="of_it"; document.getElementById("request_custom_fields_20963211").value="helpdesk_1"; document.getElementById("request_collaborators_").value="ilya.tarasyuk@4finance.com";}  () )
+```
