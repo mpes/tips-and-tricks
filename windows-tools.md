@@ -67,7 +67,7 @@ make short animations of your screen
 - requires .NET framework
 [exe](http://www.screentogif.com/)
 
-# [!Clipboard] (http://1clipboard.io/)
+# [1Clipboard] (http://1clipboard.io/)
 share clipboard even among multiple computers in different locations or 
 #Windows# #MacOS#
 * uses Google Drive (keep security in mind)
@@ -93,6 +93,6 @@ I use it for common Mac gesture:
 
 ## [Switch Recent Tabs](https://chrome.google.com/webstore/detail/switch-recent-tabs/odhjcgnlbagjllfbilicalpigimhdcll?utm_source=chrome-app-launcher-info-dialog)
 
-* toggles two recent active tabs <kbd>Alt</kbd> + <kbd>Q</kbd> - similar to <kbd>Option</kbd><kbd>`</kbd> on Mac
-* toggles two recent active windows <kbd>Alt</kbd> + <kbd>`</kbd> - same as <kbd>Option</kbd><kbd>`</kbd> on Mac
+* toggles two recent active tabs <kbd>Alt</kbd> + <kbd>Q</kbd> - similar to <kbd>Option</kbd><kbd>\`</kbd> on Mac
+* toggles two recent active windows (or apps as browser - Slack for example) <kbd>Alt</kbd> + <kbd>\`</kbd> - same as <kbd>Option</kbd><kbd>`</kbd> on Mac
 * reopens recent closed tab/window <kbd>Ctr</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>
