@@ -7,7 +7,7 @@ is a Windows quick look tool.
 * plugins - MS Word, MS Excel, PNG, 
 <div align="left">
   
-![seer-demo.gif](seer-demo.gif)
+![seer-demo.gif ](seer-demo.gif =320x140)
 
 </div>
 
