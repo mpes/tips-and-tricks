@@ -3,7 +3,8 @@ Short list of tools I use on Windows
 is a Windows quick look tool.
 * Acts just like the one in macOS, but Seer is more powerful, customizable and faster.
 * In explorer just press <kbd>space</kbd> and preview archives, pictures, Excel tables, Word documents, text files, etc.
-* New version are paid $
+* New version are paid $ :(
+
 [exe](https://sourceforge.net/projects/ccseer/files/latest/download)
 # [Cmder](http://cmder.net/) 
 is a pre-configured software package providing you the best terminal emulator.
