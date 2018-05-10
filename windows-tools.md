@@ -5,9 +5,9 @@ is a Windows quick look tool.
 * In explorer just press <kbd>space</kbd> and preview zip archives, pictures, videos, mp3, Excel tables, Word documents, text files, etc.
 * New version are paid $ :(
 * plugins - MS Word, MS Excel, PNG, 
-<p align="left">
+<div align="left">
 ![seer-demo.gif](seer-demo.gif)
-</p>
+</div>
 
 
 [exe](https://sourceforge.net/projects/ccseer/files/latest/download)
