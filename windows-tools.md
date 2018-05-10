@@ -4,7 +4,10 @@ is a Windows quick look tool.
 * Acts just like the one in macOS, but Seer is more powerful, customizable and faster.
 * In explorer just press <kbd>space</kbd> and preview archives, pictures, Excel tables, Word documents, text files, etc.
 * New version are paid $ :(
+<p align="left">
 ![seer-demo.gif](seer-demo.gif)
+</p>
+
 
 [exe](https://sourceforge.net/projects/ccseer/files/latest/download)
 # [Cmder](http://cmder.net/) 
