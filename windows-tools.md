@@ -6,7 +6,9 @@ is a Windows quick look tool.
 * New version are paid $ :(
 * plugins - MS Word, MS Excel, PNG, 
 <div align="left">
+  
 ![seer-demo.gif](seer-demo.gif)
+
 </div>
 
 
