@@ -5,7 +5,7 @@ is a Windows quick look tool.
 * In explorer just press <kbd>space</kbd> and preview archives, pictures, Excel tables, Word documents, text files, etc.
 * New version are paid $ :(
 
-![seer-demo.gif|320x140](seer-demo.gif)
+![seer-demo.gif|320x140, 40%](seer-demo.gif)
 
 
 [exe](https://sourceforge.net/projects/ccseer/files/latest/download)
