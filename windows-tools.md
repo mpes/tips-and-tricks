@@ -1,12 +1,9 @@
 Short list of tools I use on Windows
-# [Seer](http://1218.io/seer/screenshot.html)
+# [Seer](http://1218.io/seer/screenshot.html)<img src="seer-demo.gif" width="320px" height="240px"/>
 is a Windows quick look tool.
 * Acts just like the one in macOS, but Seer is more powerful, customizable and faster.
 * In explorer just press <kbd>space</kbd> and preview archives, pictures, Excel tables, Word documents, text files, etc.
 * New version are paid $ :(
-<img src="seer-demo.gif" width="320px" height="240px"/>
-![seer-demo.gif](seer-demo.gif)
-
 
 [exe](https://sourceforge.net/projects/ccseer/files/latest/download)
 # [Cmder](http://cmder.net/) 
