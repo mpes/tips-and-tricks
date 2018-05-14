@@ -9,6 +9,7 @@ is a Windows quick look tool.
 [exe](https://sourceforge.net/projects/ccseer/files/latest/download)
 # [Cmder](http://cmder.net/) 
 is a pre-configured software package providing you the best terminal emulator.
+<img src="cmder-demo.gif" width="320px" height="240px" align="right"/>
 * Has multiple tabs, support multiple environments (Git for Bash, Bash, Mintty, PowerShell, ... ) But also others could be added (Baboon)
 * Works on the top of console emulator [ConEmu](https://conemu.github.io/), adds [Clink] (https://mridgers.github.io/clink/)
 * Comes with necessary UNIX tools like find, grep, ssh, git, ...
