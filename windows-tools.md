@@ -122,5 +122,5 @@ basically Javascript code run as bookmark
 ## prefill Zendesk request
 like request to install software
 ```javascript
-javascript:(function(){ document.getElementById("request_custom_fields_22718993").value="czech_republic"; document.getElementById("request_custom_fields_29168837").value="of_it"; document.getElementById("request_custom_fields_20963211").value="helpdesk_1"; document.getElementById("request_collaborators_").value="ilya.tarasyuk@4finance.com";}  () )
+javascript:(function(){ document.getElementById("request_custom_fields_22718993").value="czech_republic"; document.getElementById("request_custom_fields_29168837").value="of_it"; document.getElementById("request_custom_fields_20963211").value="helpdesk_1"; document.getElementById("request_collaborators_").value="someone@company.com";}  () )
 ```
