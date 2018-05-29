@@ -1,6 +1,6 @@
 # Tips and tricks
 ## [Windows](windows-tools.md)
-## [bash](bash-tools.md)
+## [bash](bash-tricks.md)
 ## Linux
 ### RPM - List the files and directories that are installed with that package.
 For example nano package
