@@ -1,2 +1,2 @@
 #Bash tricks
-##String manipulation in bash(string-manipulation-in-bash)
+##[String manipulation in bash](string-manipulation-in-bash.md)
