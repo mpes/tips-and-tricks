@@ -1,5 +1,6 @@
 # Tips and tricks
 ## [Windows](windows-tools.md)
+## [Mac](mac-tools.md)
 ## [Bash](bash/bash-tricks.md)
 ## [VIM](vim/vim.md)
 ## Linux
