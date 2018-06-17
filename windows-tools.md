@@ -89,7 +89,11 @@ Downloads youtube video as `.mp4`
 # [Snipaste](https://www.snipaste.com/)
 Powerful screenshot tool
 [exe](https://dl.snipaste.com/win-x64)
-
+## [JDisk Report](http://www.jgoodies.com/downloads/jdiskreport/)
+<img src="http://www.jgoodies.com/wp-content/uploads/2012/04/o1960-300x234.jpg" width="320px" height="240px" align="right"/> 
+See used up space by folders and filetypes
+Cross platform (JAVA)
+[zip](http://www.jgoodies.com/download/jdiskreport/jdiskreport-1_4_1-win.exe)
 # System commands
 ## clip
 standard Windows command
