@@ -96,9 +96,10 @@ Cross platform (JAVA)
 [zip](http://www.jgoodies.com/download/jdiskreport/jdiskreport-1_4_1-win.exe)
 
 # System commands
-## clip
+## [Clip](https://ss64.com/nt/clip.html)
 standard Windows command
-* `DIR | CLIP` Places a copy of the current directory listing into the Windows clipboard. 
+*  Places a copy of the current directory listing into the Windows clipboard. 
+$ DIR | CLIP
 * `CLIP < README.TXT` Places a copy of the text from readme.txt on to the Windows clipboard.
 
 # Chrome extensions
