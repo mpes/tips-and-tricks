@@ -98,8 +98,7 @@ Cross platform (JAVA)
 # System commands
 ## [Clip](https://ss64.com/nt/clip.html)
 standard Windows command
-*  Places a copy of the current directory listing into the Windows clipboard. 
-
+*  Places a copy of the current directory listing into the Windows clipboard. ::
     $ DIR | CLIP
 
 * `CLIP < README.TXT` Places a copy of the text from readme.txt on to the Windows clipboard.
