@@ -94,11 +94,13 @@ Powerful screenshot tool
 See used up space by folders and filetypes
 Cross platform (JAVA)
 [zip](http://www.jgoodies.com/download/jdiskreport/jdiskreport-1_4_1-win.exe)
+
 # System commands
 ## clip
 standard Windows command
 * `DIR | CLIP` Places a copy of the current directory listing into the Windows clipboard. 
 * `CLIP < README.TXT` Places a copy of the text from readme.txt on to the Windows clipboard.
+
 # Chrome extensions
 ## [Shortcuts (Custom Keyboard Shortcuts](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck?utm_source=chrome-app-launcher-info-dialog)
 customize shortcuts you are used to. I was used to Mac so the following are good fit for me:
