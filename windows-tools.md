@@ -99,10 +99,13 @@ Cross platform (JAVA)
 ## [Clip](https://ss64.com/nt/clip.html)
 standard Windows command
 *  Places a copy of the current directory listing into the Windows clipboard.::
-    
+    ```bash
     $ DIR | CLIP
-
-* `CLIP < README.TXT` Places a copy of the text from readme.txt on to the Windows clipboard.
+    ```
+*  Places a copy of the text from readme.txt on to the Windows clipboard.
+    ```bash
+    $ CLIP < README.TXT
+    ```
 
 # Chrome extensions
 ## [Shortcuts (Custom Keyboard Shortcuts](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck?utm_source=chrome-app-launcher-info-dialog)
