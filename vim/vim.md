@@ -1,4 +1,7 @@
 # VIM
+### Miscelanous
+When in `less` viewing a file hit <kbd>v</kbd> to start editor.
+
 ### Commandline
 * `vim filename` Opens new file in Vim
 * `vim -p` option opens each specified file in a separate tab (up to the value of the 'tabpagemax')
