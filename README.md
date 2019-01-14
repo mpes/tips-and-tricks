@@ -12,3 +12,5 @@ Downloads nano package in current directory
 > `user@linuxacademy:~$ sudo yumdownloader nano`
 ### Install from RPM package
 > `sudo rpm -ivh nano_2.2.6-3_amd64.rpm`
+
+### [Dotfiles management](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
