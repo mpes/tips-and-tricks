@@ -129,6 +129,9 @@ I use it for common Mac gesture:
 * toggles two recent active windows (or apps as browser - Slack for example) <kbd>Alt</kbd> + <kbd>\`</kbd> - same as <kbd>Option</kbd><kbd>`</kbd> on Mac
 * reopens recent closed tab/window <kbd>Ctr</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>
 
+## [DarkReader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+* pleasant reading in dark
+
 # Chrome bookmarklets
 basically Javascript code run as bookmark
 ## prefill Zendesk request
